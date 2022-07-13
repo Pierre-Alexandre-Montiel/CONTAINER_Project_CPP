@@ -12,8 +12,8 @@ Développement de toutes les méthodes hors C++11 pour chacun des containers.
 Gestion des l'ensemble des fonctionnalitées liees aux iterateurs.
 
 #### VECTOR ####
-vector::assign/
-vector::at/
+vector::assign ==
+vector::at ==
 vector::back
 vector::begin
 vector::capacity
